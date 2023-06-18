@@ -1,0 +1,34 @@
+.listItem {
+    background-color: rgb(236, 236, 236);
+    margin-top: 2rem;
+    width: 500px;
+    margin: auto;
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+        rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+        rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+    padding: .2px 0px;
+    text-align: left;
+    padding: 12px;
+    margin: 12px auto;
+}
+
+.allowDiv {
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+}
+
+.allowBtn {
+    background-color: green;
+    border: none;
+}
+
+.rejectBtn {
+    background-color: rgb(138, 36, 36);
+    border: none;
+}
+
+.greenBg {
+    background-color: rgb(140, 190, 148);
+}
